@@ -1,21 +1,20 @@
 ---
 title: 10 ways to remember your home renovation
-date: 
+date: ''
 short_description: content/assets/bench-accounting-49909-unsplash.jpg
 date-posted: 2021-07-15T23:00:00Z
 
 ---
-![](content/assets/fabio-comparelli-696506-unsplash.jpg)
+The summer holidays are coming and you're going to need to entertain the kids more than usual. We're all hoping for long sunny days allowing us to go outside and visit the beach, field or playground but are likely fearing a rainy day.
 
-If you've just been given a home improvement grant or are perhaps about to get started on a dream green home improvement you've spent lockdown planning this may be the article you didn't know you needed.
+Well dont fear as we've put together a number of fun ideas that will even help you remember the summer in years to come.
 
-You've no doubt put lots of effort into planning everything so far but have you thought about how you're going to remember this journey? don't worry if not we've got the following tips for you.
+\#### Decoupage
 
-### **Creating a Photobook**
+Decoupage is an art style where you cut out sections of different color paper and then glue them to an object along with using different painting effects. Why not use this simple creative art technique in combination with some the family photos, take a small object from around the house and upcycle it into a cherished piece for the family.
 
-### This is a really effective way of recording daily progress, leaving you with a great memento to look back on. There are lots of solutions that make it easy to do and many are attached to high street names you'll already know such as \[these available on ASDA Photo\]([https://www.asda-photo.co.uk/about/photobooks](https://www.asda-photo.co.uk/about/photobooks "https://www.asda-photo.co.uk/about/photobooks")) which even lets you quickly add text descriptions. Simply take a few photos and write down a couple of notes each day then upload them to your book and add the comments before ordering, shortly after you'll receive a high-quality book through the door to keep and remember your home's journey.
+Grab some photos, scissors, glue, and any other crafting equipment you have around the house. Cut out your favorite sections of each photo and begin gluing them down onto your chosen object, layering up more sections building a collage of memories. The kids will love getting creative flicking, dripping or blowing paint around over your new masterpiece.
 
-#### **Writing a blog**
+Don't have any photos or crafting gear? websites such a \[Walmart Photo\]([https://photos3.walmart.com/about/prints#](https://photos3.walmart.com/about/prints# "https://photos3.walmart.com/about/prints#") "Walmart Photo") offer cheap prints with 1 hour printing option at your local store so you can order at home then head in a pick up your prints at the same time as your glue and paints.
 
-Blogs are a great way to record life events such as this, you can update daily with photos and write short comments giving you a series of steps you can look back on. Friends and family can even check in and see how things are going whenever they like and can even leave you a comment celebrating your achievements in real-time.  
-\[Blogger\]([https://www.blogger.com/about/](https://www.blogger.com/about/ "https://www.blogger.com/about/")) is provided by Google and free to use so even those working on a limited budget can do it.
+When your done and the glue has all dried you'll hopefully have some happy kids and a lovely memory of the day. The creative possibilities are endless so you don't have to simply cover the object, you could try and form the photos into certain shapes such as animals or flowers. Why not try mixing in the kids favourite characters too for a piece they'd love to show off to friends.
