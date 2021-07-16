@@ -16,3 +16,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- content/blog/10-ways-to-remember-your-home-renovation.md
