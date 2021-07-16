@@ -7,6 +7,19 @@ fields:
   config:
     required: false
   label: Title
+- name: sub-heading
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Sub-Heading
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - name: date-posted
   type: datetime
   label: Date Posted
@@ -20,6 +33,7 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: Image
+  label: Banner Image
+  default: content/assets/bbbb.jpg
 pages:
 - content/blog/10-ways-to-remember-your-home-renovation.md
