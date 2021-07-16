@@ -1,6 +1,7 @@
 ---
 title: 10 ways to remember your home renovation
-date: 2021-07-15T23:00:00Z
+date: 2021-07-15T23:00:00.000+00:00
+short_description: content/assets/bench-accounting-49909-unsplash.jpg
 
 ---
 If you've just been given a home improvement grant or are perhaps about to get started on a dream green home improvement you've spent lockdown planning this may be the article you didn't know you needed.
