@@ -3,6 +3,9 @@ title: 10 ways to remember your home renovation
 date: ''
 short_description: content/assets/bench-accounting-49909-unsplash.jpg
 date-posted: 2021-07-15T23:00:00Z
+tags:
+- Home
+sub-heading: Short Test Description
 
 ---
 The summer holidays are coming and you're going to need to entertain the kids more than usual. We're all hoping for long sunny days allowing us to go outside and visit the beach, field or playground but are likely fearing a rainy day.
