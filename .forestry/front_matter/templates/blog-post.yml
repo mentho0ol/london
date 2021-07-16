@@ -7,6 +7,15 @@ fields:
   config:
     required: false
   label: Title
+- name: date-posted
+  type: datetime
+  label: Date Posted
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: short_description
   type: file
   config:
