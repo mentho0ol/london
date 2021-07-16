@@ -1,7 +1,8 @@
 ---
 title: 10 ways to remember your home renovation
-date: 2021-07-15T23:00:00.000+00:00
+date: 
 short_description: content/assets/bench-accounting-49909-unsplash.jpg
+date-posted: 2021-07-15T23:00:00Z
 
 ---
 ![](content/assets/fabio-comparelli-696506-unsplash.jpg)
